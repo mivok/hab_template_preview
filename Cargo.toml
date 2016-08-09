@@ -1,0 +1,9 @@
+[package]
+name = "hab_template_preview"
+version = "0.1.0"
+authors = ["Mark Harrison <mark@mivok.net>"]
+
+[dependencies]
+handlebars = "0.20.2"
+rustc-serialize = "0.3.19"
+toml = "0.1"
